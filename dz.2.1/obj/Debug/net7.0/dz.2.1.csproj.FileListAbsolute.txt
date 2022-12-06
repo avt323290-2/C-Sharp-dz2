@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\bin\Debug\net7.0\dz.2.1.exe
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\bin\Debug\net7.0\dz.2.1.deps.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\bin\Debug\net7.0\dz.2.1.runtimeconfig.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\bin\Debug\net7.0\dz.2.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\bin\Debug\net7.0\dz.2.1.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\refint\dz.2.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\dz.2.1.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ2_home_work\dz.2.1\obj\Debug\net7.0\ref\dz.2.1.dll
